@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\qstring.obj",
+            "outputs": [
+                "x64\\Debug\\qstring.h.obj.dt.module.json",
+                "x64\\Debug\\qstring.h.obj.dt.d.json",
+                "x64\\Debug\\Qtcalc.pch"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+Info: creating stash file D:\Paris\VSproject\Qtcalc\Qtcalc\x64\Debug\qt\qmake\f2b0207a967041729045d536c5ebe4e6\.qmake.stash
+WARNING: Could not parse Compiler option '/await:strict'; added to AdditionalOptions.
+WARNING: You can suppress these warnings with CONFIG+=suppress_vcproj_warnings.

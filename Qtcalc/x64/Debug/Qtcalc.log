@@ -1,0 +1,5 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.12.0
+  Qtcalc.vcxproj -> D:\Paris\VSproject\Qtcalc\x64\Debug\Qtcalc.exe
+  Qtcalc.vcxproj -> D:\Paris\VSproject\Qtcalc\x64\Debug\Qtcalc.pdb (部分 -> 完整 PDB)
+D:\Paris\VSproject\Qtcalc\x64\Debug\Qtcalc.pdb : fatal error CMF1107: 

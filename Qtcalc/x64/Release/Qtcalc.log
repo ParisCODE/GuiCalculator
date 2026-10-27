@@ -1,0 +1,17 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (D:/Qt/6.12.0/msvc2022_64/bin/qmake)
+   Qt: 6.12.0
+  uic Qtcalc.ui
+  rcc Qtcalc.qrc
+  moc Qtcalc.h
+   RCC: Warning: No resources in 'D:\Paris\VSproject\Qtcalc\Qtcalc\Qtcalc.qrc'.
+  stdafx.cpp
+  Qtcalc.cpp
+  main.cpp
+  qrc_Qtcalc.cpp
+  moc_Qtcalc.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 137 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Qtcalc.vcxproj -> D:\Paris\VSproject\Qtcalc\x64\Release\Qtcalc.exe
